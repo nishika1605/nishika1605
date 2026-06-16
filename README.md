@@ -6,7 +6,7 @@
 - Interested in Artificial Intelligence and Machine Learning
 - Learning Generative AI and Large Language Models
 - Building practical AI projects
-- Seeking AI/Data Science internship opportunities
+- Seeking opportunities in AI Engineering, Machine Learning, and Data Science.
 
 ## Technical Skills
 - Python
