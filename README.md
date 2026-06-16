@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nishika 👋
 
-<!--
-**nishika1605/nishika1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Artificial Intelligence in Sydney, Australia
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Artificial Intelligence and Machine Learning
+- Learning Generative AI and Large Language Models
+- Building practical AI projects
+- Seeking AI/Data Science internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+
+## Current Goals
+- Build AI portfolio projects
+- Secure an internship in Australia
+- Become an AI Engineer or Data Scientist
+
+## Connect With Me
+- LinkedIn: (www.linkedin.com/in/
+nishika-chandrashekhar-99115b365
+)
